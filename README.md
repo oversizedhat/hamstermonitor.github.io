@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/oversizedhat/hamstermonito
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-![useful image]({{ site.url }}/images/DSC_1469.JPG)
+![useful image]({{ site.url }}/assets/DSC_1469.JPG)
 
 ### Markdown
 
