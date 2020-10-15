@@ -1,0 +1,10 @@
+# Used only for local development, runs jekyll in container, serve with --watch flag.
+version: '2.4'
+
+services:
+  jekyll:
+    image: jekyllwatch
+    volumes:
+      - .:/site
+    ports:
+      - '4000:4000'
